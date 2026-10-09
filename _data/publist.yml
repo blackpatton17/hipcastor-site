@@ -1,5 +1,5 @@
 - title: "EONIAN: A User-Guided Multi-Agent System for Cross-Provider Data Retrieval and Analysis"
-  description: EONIAN (EnvirOnmental & Natural Information Agent Network) is a user-guided multi-agent system designed for cross-provider data retrieval and analysis.
+  description: EONIAN introduces a multi-agent framework that decouples workflow state from conversational history via structured JSON representations, enabling stateful orchestration, checkpoint recovery, and human-in-the-loop intervention for long-horizon scientific workflows across heterogeneous data repositories.
   authors: Zehua Zhu, Michael J. Elliott, Chia-Chen Kuo, Jose A. B. Fortes, Julia A. Jones, Renato J. Figueiredo
   image: eonian.png
   link:
